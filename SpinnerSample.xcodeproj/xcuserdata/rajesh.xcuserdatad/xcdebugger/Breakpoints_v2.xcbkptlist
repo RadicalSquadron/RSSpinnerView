@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FC4CA30-8CF7-44D3-A90A-13239D357254"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B12CF7E2-D168-48B5-9839-6F6945B59643"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpinnerSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "segmentEvent(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B12CF7E2-D168-48B5-9839-6F6945B59643 - 30428ae7eb5c145f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpinnerSample.ViewController.segmentEvent(Any) -&gt; ()"
+                  moduleName = "SpinnerSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajesh/Documents/Git/SpinnerSample/SpinnerSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "B12CF7E2-D168-48B5-9839-6F6945B59643 - 30428ae7eb5c145f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpinnerSample.ViewController.segmentEvent(Any) -&gt; ()"
+                  moduleName = "SpinnerSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajesh/Documents/Git/SpinnerSample/SpinnerSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "B12CF7E2-D168-48B5-9839-6F6945B59643 - 30428ae7eb5c145f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpinnerSample.ViewController.segmentEvent(Any) -&gt; ()"
+                  moduleName = "SpinnerSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajesh/Documents/Git/SpinnerSample/SpinnerSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "451">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28DE01E0-2AAC-4F82-9466-BE97E77AA6E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpinnerSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "segmentEvent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
